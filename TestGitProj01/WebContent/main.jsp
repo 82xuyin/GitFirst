@@ -8,10 +8,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<ul>
-		<li>Git 첫 번째 항목</li>
-		<li>두 번째 항목 추가</li>
-		<li></li>
-	</ul>
+	<h2>나는 Main 화면 입니다.</h2>
 </body>
 </html>
